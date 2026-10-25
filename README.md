@@ -38,3 +38,7 @@ Add marketplace with `keyhearingaids/claude-keep-awake`, then Add plugin.
 `SetThreadExecutionState` in a loop and writes its process id and end time to
 `%LOCALAPPDATA%\claude-keep-awake\status.json`, which the mod reads to show status. Windows drops the
 keep-awake request as soon as the tab's PowerShell process exits.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
