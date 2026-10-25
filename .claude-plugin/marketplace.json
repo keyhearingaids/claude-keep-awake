@@ -1,0 +1,17 @@
+{
+  "name": "keep-awake",
+  "owner": {
+    "name": "Ganesh Kripapuri"
+  },
+  "plugins": [
+    {
+      "name": "keep-awake",
+      "source": "./",
+      "description": "/keep-awake opens a visible Windows Terminal tab that keeps the laptop awake (12 hours by default); closing the tab ends it.",
+      "author": {
+        "name": "Ganesh Kripapuri"
+      }
+    }
+  ],
+  "description": "Keep-awake mod for Claude Code on Windows"
+}

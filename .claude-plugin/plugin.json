@@ -1,0 +1,9 @@
+{
+  "name": "keep-awake",
+  "version": "0.1.0",
+  "description": "/keep-awake opens a visible Windows Terminal tab that keeps the laptop awake (12 hours by default); closing the tab ends it.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Ganesh Kripapuri"
+  }
+}
